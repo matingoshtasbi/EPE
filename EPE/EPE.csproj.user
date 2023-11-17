@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="1.Presention\Forms\EmployeeManagement\AddUpdateContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\EmployeeManagement\AddUpdateEducationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\EmployeeManagement\AddUpdateEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\EmployeeManagement\AddUpdatePhysicalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\EmployeeManagement\AddUpdateResumeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\EmployeeManagement\MainEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\MasterData\AddUpdateEvaluatedItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\MasterData\AddUpdateJobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\MasterData\MainMasterDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\MasterData\MasterDataTemplateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\PerformanceEvaluate\PerformanceEvaluateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\PerformanceEvaluate\PerformanceEvaluateMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\PerformanceEvaluate\PerformanceEvaluateResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.Presention\Forms\PerformanceEvaluate\PerformanceEvaluateSelectResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
