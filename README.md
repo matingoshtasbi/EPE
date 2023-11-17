@@ -4,7 +4,7 @@
 
 ## Description
 
-This Windows Forms application, built with .NET 6, manages employee information, basic employee details, and evaluation items used for employee performance assessments. The application utilizes a SQL Server database with Entity Framework Core Code-First to ensure the creation of the database. It performs calculations for employee performance evaluations.
+This Windows Forms application, built with .NET 6, manages employee information, basic employee details, and evaluation items used for employee performance assessments. The application utilizes a SQL Server database with Entity Framework Core Code-First Approch.
 
 ## Features
 
@@ -18,7 +18,7 @@ This Windows Forms application, built with .NET 6, manages employee information,
 
 - **Performance Evaluation:**
   - Perform calculations based on evaluation items.
-  - Generate reports or summaries of employee performance.
+  - Generate reports and summaries of employee performance.
 
 ## Getting Started
 
